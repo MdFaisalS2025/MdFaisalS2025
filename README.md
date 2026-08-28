@@ -78,9 +78,6 @@ Python research project.
 
 ### GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdFaisalS2025&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFaisalS2025&layout=compact&hide_border=true" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdFaisalS2025&hide_border=true" />
 
 </div>
