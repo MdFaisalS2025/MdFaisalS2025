@@ -2,10 +2,11 @@
 
 # Hi, I'm Mohamed Faisal Sindhi 👋
 
-### AI/ML & Data Engineer — turning messy data into models, retrieval systems, and dashboards
+### Founder & AI Engineer — building AI systems that ship, from healthcare agents to legal retrieval to blockchain infra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdfaisalsindhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfaisalsindhi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed-faisal-sindhi-8zzpn80.gamma.site/)
+[![Location](https://img.shields.io/badge/Tampa,_FL-USA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Education](https://img.shields.io/badge/MS_AI_%26_Business_Analytics-USF-006747?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 </div>
@@ -14,17 +15,33 @@
 
 ### About
 
-I build applied ML and LLM systems — retrieval pipelines, code-review assistants, and predictive models — and I'm currently pursuing an MS in AI & Business Analytics at the University of South Florida. My background also includes engineering work on blockchain systems in a prior role. These days most of what I ship is Python, C++, and TypeScript.
+I'm the Founder & AI Engineer at **RAEY**, building source-cited AI search over hospital SOPs, and a Graduate Assistant in Healthcare AI at the University of South Florida, where I designed **SENTINEL** — a 6-agent system that flags patient deterioration 2.7 hours earlier than the NEWS2 clinical baseline. I'm completing an MS in AI & Business Analytics at USF. Before healthcare AI, I spent two years as a Blockchain Engineer at Vee4 Software building a Blockchain Name Service and privacy-preserving federated learning with Fully Homomorphic Encryption.
+
+### Experience
+
+| | | |
+|---|---|---|
+| **Founder & AI Engineer**, RAEY | Tampa, FL | Aug 2026 – Present |
+| **Graduate Assistant, Healthcare AI**, University of South Florida | Tampa, FL | May 2026 – Present |
+| **Microsoft Learn Student Ambassador**, Microsoft (USF) | Tampa, FL | Dec 2025 – May 2026 |
+| **Research Assistant, Applied Machine Learning**, University of South Florida | Tampa, FL | Jan 2025 – Jan 2026 |
+| **Blockchain Engineer (C++ / Python)**, Vee4 Software | United Arab Emirates | Sep 2022 – Nov 2024 |
+| **SEO Analyst & WordPress Developer**, TechResx Technologies | Chennai, India | Mar 2021 – Mar 2022 |
 
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -34,8 +51,8 @@ I build applied ML and LLM systems — retrieval pipelines, code-review assistan
 <tr>
 <td width="50%">
 
-**[Swiss Legal Information Retrieval](https://github.com/MdFaisalS2025/llm-legal-retrieval)**
-Swiss legal information retrieval system — final project for ISM 6561, Spring 2026.
+**[Agentic Legal Retrieval for Swiss Law](https://github.com/MdFaisalS2025/llm-legal-retrieval)**
+Queried 175K legal articles and 2.4GB of court records using BM25, neural reranking, and LLM citation checks — zero fabricated citations in evaluation, +19% macro-F1 over baseline.
 
 </td>
 <td width="50%">
@@ -54,8 +71,8 @@ Predicting building energy efficiency using machine learning.
 </td>
 <td width="50%">
 
-**[RAEY Site](https://github.com/MdFaisalS2025/RAEY-site)**
-TypeScript web application.
+**[RAEY](https://github.com/MdFaisalS2025/RAEY-site)**
+Source-cited AI search over hospital SOPs. Retrieval, verification, Next.js, and Docker — a 218-case evaluation catches 85% of unsafe answers while passing 82% of valid ones.
 
 </td>
 </tr>
@@ -63,7 +80,7 @@ TypeScript web application.
 <td width="50%">
 
 **[RAEY SOP Research](https://github.com/MdFaisalS2025/RAEY-SOP-Research)**
-Python research project.
+Research foundation behind RAEY's hospital SOP retrieval system.
 
 </td>
 <td width="50%">
