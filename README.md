@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Faisal Sindhi 👋
 
-### Founder & AI Engineer building AI systems that ship, from healthcare agents to legal retrieval to blockchain infra
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=2E86AB&center=true&vCenter=true&width=650&lines=Founder+%26+AI+Engineer+%40+RAEY;Healthcare+AI+%40+USF;Ex-Blockchain+Engineer+%40+Vee4;Building+AI+systems+that+ship)](https://github.com/MdFaisalS2025)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdfaisalsindhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfaisalsindhi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed-faisal-sindhi-8zzpn80.gamma.site/)
