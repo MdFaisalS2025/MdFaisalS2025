@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Faisal Sindhi 👋
 
-### Founder & AI Engineer — building AI systems that ship, from healthcare agents to legal retrieval to blockchain infra
+### Founder & AI Engineer building AI systems that ship, from healthcare agents to legal retrieval to blockchain infra
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mdfaisalsindhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfaisalsindhi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed-faisal-sindhi-8zzpn80.gamma.site/)
@@ -15,7 +15,7 @@
 
 ### About
 
-I'm the Founder & AI Engineer at **RAEY**, building source-cited AI search over hospital SOPs, and a Graduate Assistant in Healthcare AI at the University of South Florida, where I designed **SENTINEL** — a 6-agent system that flags patient deterioration 2.7 hours earlier than the NEWS2 clinical baseline. I'm completing an MS in AI & Business Analytics at USF. Before healthcare AI, I spent two years as a Blockchain Engineer at Vee4 Software building a Blockchain Name Service and privacy-preserving federated learning with Fully Homomorphic Encryption.
+I'm the Founder & AI Engineer at **RAEY**, building source-cited AI search over hospital SOPs, and a Graduate Assistant in Healthcare AI at the University of South Florida, where I designed **SENTINEL**, a 6-agent system that flags patient deterioration 2.7 hours earlier than the NEWS2 clinical baseline. I'm completing an MS in AI & Business Analytics at USF. Before healthcare AI, I spent two years as a Blockchain Engineer at Vee4 Software building a Blockchain Name Service and privacy-preserving federated learning with Fully Homomorphic Encryption.
 
 ### Experience
 
@@ -52,7 +52,7 @@ I'm the Founder & AI Engineer at **RAEY**, building source-cited AI search over 
 <td width="50%">
 
 **[Agentic Legal Retrieval for Swiss Law](https://github.com/MdFaisalS2025/llm-legal-retrieval)**
-Queried 175K legal articles and 2.4GB of court records using BM25, neural reranking, and LLM citation checks — zero fabricated citations in evaluation, +19% macro-F1 over baseline.
+Queried 175K legal articles and 2.4GB of court records using BM25, neural reranking, and LLM citation checks: zero fabricated citations in evaluation, +19% macro-F1 over baseline.
 
 </td>
 <td width="50%">
@@ -72,7 +72,7 @@ Predicting building energy efficiency using machine learning.
 <td width="50%">
 
 **[RAEY](https://github.com/MdFaisalS2025/RAEY-site)**
-Source-cited AI search over hospital SOPs. Retrieval, verification, Next.js, and Docker — a 218-case evaluation catches 85% of unsafe answers while passing 82% of valid ones.
+Source-cited AI search over hospital SOPs. Retrieval, verification, Next.js, and Docker. A 218-case evaluation catches 85% of unsafe answers while passing 82% of valid ones.
 
 </td>
 </tr>
