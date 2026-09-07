@@ -21,6 +21,17 @@ The portfolio’s Systems Map connects projects, roles, and capabilities. Each l
 ## Questions I’m working on
 
 <details open>
+<summary><strong>AccessPath · What should a route planner do when accessibility data is missing?</strong></summary>
+
+I built a Seattle pedestrian-routing prototype that compares shortest, accessibility-optimized, and confidence-aware routes across 213K OpenStreetMap segments and 262K crowdsourced accessibility labels.
+
+Adversarial testing broke my first scoring model: enough positive reports could outvote one reliable report of no sidewalk. The revised model prevents severe, credible hazards from being averaged away. In eight curated evaluation examples, confidence-aware routing reduced completely unknown-segment exposure whenever an alternative existed—but sometimes traded it for more low-confidence evidence. It is a research prototype, not a safety-certified navigation tool.
+
+[Case study](https://portfoilio-faisal.vercel.app/projects/accesspath) · [Repository](https://github.com/MdFaisalS2025/accesspath) · [Live demo](https://accesspath-silk.vercel.app/)
+
+</details>
+
+<details>
 <summary><strong>RAEY · Can an SOP answer be traced to its supporting passage?</strong></summary>
 
 I founded RAEY and built its retrieval and verification stack. It is **pre-launch**. A 218-case evaluation caught 85% of answers with unsafe errors while passing 82% of valid answers.
@@ -66,7 +77,7 @@ That lead time is an evaluation result, not a claim about clinical production pe
 
 **Retrieval and evaluation:** [RAG](https://portfoilio-faisal.vercel.app/#node=capability-rag), [verification](https://portfoilio-faisal.vercel.app/#node=capability-verification), [evaluation](https://portfoilio-faisal.vercel.app/#node=capability-evaluation).
 
-**Engineering:** Python, C++, Next.js, Docker, SQL, and PostgreSQL. Earlier work includes blockchain name services, wallet integrations, and privacy-preserving machine learning.
+**Engineering:** Python, FastAPI, PostGIS, React, MapLibre, C++, Next.js, Docker, SQL, and PostgreSQL. Earlier work includes blockchain name services, wallet integrations, and privacy-preserving machine learning.
 
 **Beyond the current projects:** [Explore smaller experiments](https://portfoilio-faisal.vercel.app/projects), including a C++ racing simulator with a DQN agent and a building-energy prediction workflow.
 
