@@ -1,108 +1,77 @@
-<div align="center">
+[![Mohamed Faisal Sindhi. Founder and AI Engineer. Explore the Systems Map.](assets/profile-header.svg)](https://portfoilio-faisal.vercel.app/)
 
-# Hi, I'm Mohamed Faisal Sindhi 👋
+I’m Faisal, founder of **RAEY** and a Graduate Teaching Assistant working on healthcare AI at the University of South Florida. I build retrieval systems and study how to check the answers they produce.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1500&color=2E86AB&center=true&vCenter=true&width=650&lines=Founder+%26+AI+Engineer+%40+RAEY;Healthcare+AI+%40+USF;Ex-Blockchain+Engineer+%40+Vee4;Building+AI+systems+that+ship)](https://github.com/MdFaisalS2025)
+My work has taken me from operations in Bahrain to web development in Chennai, blockchain engineering in the UAE, and AI research in Tampa.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mdfaisalsindhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfaisalsindhi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed-faisal-sindhi-8zzpn80.gamma.site/)
-[![Location](https://img.shields.io/badge/Tampa,_FL-USA-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Education](https://img.shields.io/badge/MS_AI_%26_Business_Analytics-USF-006747?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+**[Explore my portfolio ↗](https://portfoilio-faisal.vercel.app/)** · [Research notes](https://portfoilio-faisal.vercel.app/research) · [LinkedIn](https://www.linkedin.com/in/mdfaisalsindhi/) · [Contact](https://portfoilio-faisal.vercel.app/contact)
 
-</div>
+## Choose your way in
 
----
+The portfolio’s Systems Map connects projects, roles, and capabilities. Each link opens a different route through that work.
 
-### About
+| Your interest | Start here |
+| :--- | :--- |
+| Hiring | [Recruiter: outcomes and experience →](https://portfoilio-faisal.vercel.app/#path=recruiter) |
+| Engineering | [Technical reviewer: retrieval, verification, and evaluation →](https://portfoilio-faisal.vercel.app/#path=technical-reviewer) |
+| Healthcare | [Healthcare AI: RAEY, SENTINEL, and teaching →](https://portfoilio-faisal.vercel.app/#path=healthcare-ai) |
+| Research | [Researcher: methods, findings, and limitations →](https://portfoilio-faisal.vercel.app/#path=researcher) |
+| Building a company | [Founder journey: operations to RAEY →](https://portfoilio-faisal.vercel.app/#path=founder-journey) |
 
-I'm the Founder & AI Engineer at **RAEY**, building source-cited AI search over hospital SOPs, and a Graduate Assistant in Healthcare AI at the University of South Florida, where I designed **SENTINEL**, a 6-agent system that flags patient deterioration 2.7 hours earlier than the NEWS2 clinical baseline. I'm completing an MS in AI & Business Analytics at USF. Before healthcare AI, I spent two years as a Blockchain Engineer at Vee4 Software building a Blockchain Name Service and privacy-preserving federated learning with Fully Homomorphic Encryption.
+## Questions I’m working on
 
-### Experience
+<details open>
+<summary><strong>RAEY · Can an SOP answer be traced to its supporting passage?</strong></summary>
 
-| | | |
-|---|---|---|
-| **Founder & AI Engineer**, RAEY | Tampa, FL | Aug 2026 – Present |
-| **Graduate Assistant, Healthcare AI**, University of South Florida | Tampa, FL | May 2026 – Present |
-| **Microsoft Learn Student Ambassador**, Microsoft (USF) | Tampa, FL | Dec 2025 – May 2026 |
-| **Research Assistant, Applied Machine Learning**, University of South Florida | Tampa, FL | Jan 2025 – Jan 2026 |
-| **Blockchain Engineer (C++ / Python)**, Vee4 Software | United Arab Emirates | Sep 2022 – Nov 2024 |
-| **SEO Analyst & WordPress Developer**, TechResx Technologies | Chennai, India | Mar 2021 – Mar 2022 |
+I founded RAEY and built its retrieval and verification stack. It is **pre-launch**. A 218-case evaluation caught 85% of answers with unsafe errors while passing 82% of valid answers.
 
-### Tech Stack
+The portfolio’s local product demonstrations use a mock provider and synthetic SOP data. They do not show hospital information or a production deployment.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[Case study](https://portfoilio-faisal.vercel.app/projects/raey) · [Public research log](https://github.com/MdFaisalS2025/RAEY-SOP-Research)
 
----
+</details>
 
-### Featured Projects
+<details>
+<summary><strong>F-1 Policy Intelligence · When should a policy assistant decline to answer?</strong></summary>
 
-<table>
-<tr>
-<td width="50%">
+An independent question-answering project combining dense retrieval, PostgreSQL full-text search, reranking, and citations. On a 28-question evaluation set, it recorded 100% abstention accuracy and 99.3% citation faithfulness.
 
-**[Agentic Legal Retrieval for Swiss Law](https://github.com/MdFaisalS2025/llm-legal-retrieval)**
-Queried 175K legal articles and 2.4GB of court records using BM25, neural reranking, and LLM citation checks: zero fabricated citations in evaluation, +19% macro-F1 over baseline.
+**Not an official USF service.** Students should confirm decisions with USF International Services or an immigration attorney.
 
-</td>
-<td width="50%">
+[Case study](https://portfoilio-faisal.vercel.app/projects/f1-policy-intelligence) · [Repository](https://github.com/MdFaisalS2025/USF_F1_policy_intelligence) · [Live demo](https://usf-f1-policy-intelligence.vercel.app/)
 
-**[AI Code Review Assistant](https://github.com/MdFaisalS2025/code-review-deepseek)**
-Paste source code and get back bug detection, improvement suggestions, optimization tips, and best-practice recommendations.
+</details>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<details>
+<summary><strong>SENTINEL · Can specialized agents explain an earlier deterioration alert?</strong></summary>
 
-**[Building Energy ML Prediction](https://github.com/MdFaisalS2025/ISM-6136_ML-Project)**
-Predicting building energy efficiency using machine learning.
+I designed a six-agent research system and compared four reasoning approaches. In evaluation on synthetic patient data, SENTINEL detected deterioration 2.7 hours earlier than NEWS2. The simpler rule-based baseline outperformed the heavier reasoning approaches.
 
-</td>
-<td width="50%">
+That lead time is an evaluation result, not a claim about clinical production performance.
 
-**[RAEY](https://github.com/MdFaisalS2025/RAEY-site)**
-Source-cited AI search over hospital SOPs. Retrieval, verification, Next.js, and Docker. A 218-case evaluation catches 85% of unsafe answers while passing 82% of valid ones.
+[Case study and system flow](https://portfoilio-faisal.vercel.app/projects/sentinel)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+</details>
 
-**[RAEY SOP Research](https://github.com/MdFaisalS2025/RAEY-SOP-Research)**
-Research foundation behind RAEY's hospital SOP retrieval system.
+<details>
+<summary><strong>Three more investigations · Legal citations, federated learning, and data interfaces</strong></summary>
 
-</td>
-<td width="50%">
+- **[Swiss Legal RAG](https://portfoilio-faisal.vercel.app/projects/swiss-legal-rag):** retrieval across 175K legal articles and 2.4 GB of court records. Zero fabricated citations in evaluation and a 19% macro-F1 improvement over baseline.
+- **[AI Control Hub](https://portfoilio-faisal.vercel.app/projects/ai-control-hub):** federated maintenance prediction across simulated clients. Detected 80% of failures in evaluation; the cost model projected approximately $400K in annual savings.
+- **[Conversational AI Data Explorer](https://portfoilio-faisal.vercel.app/projects/data-explorer):** a three-person team project. My contribution focused on frontend development, deployment, and chatbot integration. [Repository](https://github.com/MdFaisalS2025/ISM-6225_US-states-website).
 
-</td>
-</tr>
-</table>
+</details>
+
+## How the work connects
+
+**Retrieval and evaluation:** [RAG](https://portfoilio-faisal.vercel.app/#node=capability-rag), [verification](https://portfoilio-faisal.vercel.app/#node=capability-verification), [evaluation](https://portfoilio-faisal.vercel.app/#node=capability-evaluation).
+
+**Engineering:** Python, C++, Next.js, Docker, SQL, and PostgreSQL. Earlier work includes blockchain name services, wallet integrations, and privacy-preserving machine learning.
+
+**Beyond the current projects:** [Explore smaller experiments](https://portfoilio-faisal.vercel.app/projects), including a C++ racing simulator with a DQN agent and a building-energy prediction workflow.
 
 ---
 
-<div align="center">
+Open to AI engineering opportunities, research collaborations, and thoughtfully scoped product work involving trustworthy retrieval, healthcare AI, multi-agent systems, and applied machine learning.
 
-### GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MdFaisalS2025&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mdfaisalsindhi/) · 🌐 [Portfolio](https://mohamed-faisal-sindhi-8zzpn80.gamma.site/)
-
-</div>
+**[Get in touch](https://portfoilio-faisal.vercel.app/contact)** · [Experience](https://portfoilio-faisal.vercel.app/experience) · [Credentials](https://portfoilio-faisal.vercel.app/credentials)

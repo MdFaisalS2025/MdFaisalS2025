@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mohamed Faisal Sindhi | Founder and AI Engineer</title>
+<desc id="desc">An editorial header in parchment, graphite, sage, and terracotta. Explore the Systems Map portfolio.</desc>
+<rect width="1200" height="320" rx="8" fill="#F5F1E8"/>
+<g stroke="#DCD8CC" stroke-width="1"><path d="M48 40H1152M48 280H1152M48 40V280M1152 40V280"/><path d="M820 40V280M900 40V280M980 40V280M1060 40V280M820 100H1152M820 160H1152M820 220H1152" opacity=".65"/></g>
+<text x="76" y="88" font-family="monospace" font-size="16" letter-spacing="3" fill="#526A54">MFS / TAMPA, FLORIDA</text>
+<text x="72" y="155" font-family="Georgia, serif" font-size="49" fill="#302B27">Mohamed Faisal Sindhi</text>
+<text x="76" y="199" font-family="Arial, sans-serif" font-size="23" fill="#494640">Founder &amp; AI Engineer · RAEY</text>
+<text x="76" y="253" font-family="monospace" font-size="17" fill="#526A54">EXPLORE THE SYSTEMS MAP →</text>
+<g fill="none" stroke="#7C8D76" stroke-width="2"><path d="M860 110C930 110 930 160 996 160M860 210C930 210 930 160 996 160M996 160H1100"/></g>
+<circle cx="860" cy="110" r="8" fill="#526A54"/><circle cx="860" cy="210" r="8" fill="#526A54"/><circle cx="996" cy="160" r="15" fill="#AD503C"/><circle cx="1100" cy="160" r="10" fill="#494640"/>
+</svg>
