@@ -4,7 +4,7 @@ I’m Faisal, founder of **RAEY** and a Graduate Teaching Assistant working on h
 
 My work has taken me from operations in Bahrain to web development in Chennai, blockchain engineering in the UAE, and AI research in Tampa.
 
-I’m also a **Microsoft Student Ambassador Intern with USF IT**, from **December 2025 to December 2026 (expected)**. The student ambassador program has transitioned into the USF IT internship, with academic credit through IDS 3947.
+I’m also a **Microsoft Student Ambassador Intern with USF IT**, from **December 2025 through December 2026**. The student ambassador program transitioned into a USF IT internship with academic credit through IDS 3947.
 
 **[Explore my portfolio ↗](https://portfoilio-faisal.vercel.app/)** · [Research notes](https://portfoilio-faisal.vercel.app/research) · [LinkedIn](https://www.linkedin.com/in/mdfaisalsindhi/) · [Contact](https://portfoilio-faisal.vercel.app/contact)
 
