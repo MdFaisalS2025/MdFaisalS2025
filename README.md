@@ -1,10 +1,10 @@
 [![Mohamed Faisal Sindhi. Founder and AI Engineer. Explore the Systems Map.](assets/profile-header.svg)](https://portfoilio-faisal.vercel.app/)
 
-I’m Faisal, founder of **RAEY** and a Graduate Teaching Assistant working on healthcare AI at the University of South Florida. I build retrieval systems and study how to check the answers they produce.
+I’m Faisal, founder of **RAEY** and a Graduate Assistant working on healthcare AI at the University of South Florida. I build retrieval systems and study how to check the answers they produce.
 
 My work has taken me from operations in Bahrain to web development in Chennai, blockchain engineering in the UAE, and AI research in Tampa.
 
-I’m also a **Microsoft Student Ambassador Intern with USF IT**, from **December 2025 through December 2026**. The student ambassador program transitioned into a USF IT internship with academic credit through IDS 3947.
+I’m also a **Microsoft Ambassador Intern with USF IT**
 
 **[Explore my portfolio ↗](https://portfoilio-faisal.vercel.app/)** · [Research notes](https://portfoilio-faisal.vercel.app/research) · [LinkedIn](https://www.linkedin.com/in/mdfaisalsindhi/) · [Contact](https://portfoilio-faisal.vercel.app/contact)
 
